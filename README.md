@@ -12,11 +12,11 @@
 - Creating Scenario using ModelDesk, ControlDesk, AutomationDesk, and VEOS for validating VECUs in a Software
 In-Loop Environment focusing on bringing down Integration and functional failures across software components.
   
-**Functional Saftey Test Engineer @ TCS (_December 2020 - Present_)**
+**Functional Saftey Test Engineer @ TCS (_Mar 2023 - Dec 2023_)**
 - Requirement gathering, analysis, Implementation and validation of test scripts for testing Functional safety aspects of Saftey Controller using CAPL Scripting and Trace32 debugger.
 - The Testing focuses on various components including Watchdog timers, BootManager, DCM, Temperature Management, and Power Management.
 
-**Sensor Alignment @ TCS (_Jan 2023 - March 2023_)**
+**Sensor Alignment @ TCS (_Jan 2023 - Mar 2023_)**
 - Responsible for Requirement analysis, Implementation and validation of Testscripts for Radar and Bootloader Module in HIL Environment using Python Scripting
 - Validating RADARalignmentscenarios(Current, Static, Dynamic, Axisalignments, and misalignment checks)and Bootloader Stages with the help of Routine control and UDS.
 
